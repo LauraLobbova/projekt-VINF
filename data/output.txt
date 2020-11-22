@@ -328,17 +328,8 @@ alternative: Treeing Feist, Treeing Terrier, Ratting Terrier, Rat Terrier
 title: Lincoln Custom
 alternative: Lincoln Model 31&lt;br&gt;Lincoln Model 32|wheelbase = {{convert|138|in|mm|1|abbr=on|}}|related = [[Lincoln-Zephyr]]&lt;br&gt;[[Sunshine Special (automobile)|Lincoln &quot;Sunshine Special&quot;]]|transmission = 3-speed manual with overdrive}}
 ------------
-title: Elst, Utrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zegveld
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Jonathan Gledhill
 alternative: Jonathan Michael | id = U35681 | volume = 2016 | edition = November 2015 online | accessed = 10 September 2016 }}&lt;/ref&gt; He trained for the ministry at [[Trinity College, Bristol]].&lt;ref&gt;Debrett's People of Today London, [[Debrett's]], 2008 {{ISBN|978-1-870520-95-9}}&lt;/ref&gt; In 2007 he was awarded an honorary doctorate by Keele University in recognition of his &quot;outstanding contribution to the Church and to the people and the County of Staffordshire.&quot;&lt;ref&gt;[http://www.lichfield.anglican.org/pressr/articles/2007/070627a.htm Bishop of Lichfield to be honoured with Doctorate] {{webarchive|url=https://web.archive.org/web/20070731165436/http://lichfield.anglican.org/pressr/articles/2007/070627a.htm |date=2007-07-31 }} - Diocese of Lichfield press release. Accessed 20 August 2007.&lt;/ref&gt;
-------------
-title: Loenersloot
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Ogawa Kazumasa
 alternative: Ogawa Kazuma, Ogawa Isshin
@@ -348,15 +339,6 @@ alternative: Foreign Exchange with Daljit Dhaliwal
 ------------
 title: Hamilton Central railway station
 alternative: {{lang-gd|Hamaltan Mheadhain}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
-------------
-title: Groenekan
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Westbroek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Maartensdijk
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: The Tarzan/Lone Ranger Adventure Hour
 alternative: '''The Tarzan/Lone Ranger/Zorro Adventure Hour'''
@@ -484,26 +466,8 @@ alternative: {{lang-gd|An Ruadh-Ghleann}}{{sfn|Brailsford|2017|loc=Gaelic/Englis
 title: Prestwick International Airport railway station
 alternative: {{lang-gd|Port-adhair Eadar-nàiseanta Phreastabhaig}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
 ------------
-title: Werkhoven
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Benschop, Utrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Cabauw
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Jaarsveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lopikerkapel
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Gid Tanner
 alternative: Gid Tanner|
-------------
-title: Uitweg
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Harald Blüchel
 alternative: B-Culture, Cosmic Baby, Cosmic Enterprises, Cosmic Inc., De Luxe 63, Startrek
@@ -1045,38 +1009,17 @@ alternative: New Zealand Huntaway&lt;br /&gt;New Zealand Sheepdog
 title: ITV Telethon
 alternative: Thames Telethon
 ------------
-title: Hekendorp
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Tatra National Park, Poland
 alternative: Tatrzański Park Narodowy
 ------------
-title: Kamerik
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Linschoten (village)
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Zuilen
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Bean salad
 alternative: Three Bean Salad, Four Bean Salad, etc.
-------------
-title: Tienhoven, Stichtse Vecht
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Colgate Rochester Crozer Divinity School
 alternative: CRCDS
 ------------
 title: K. V. Narayanaswamy
 alternative: KVN
-------------
-title: Groenlandsekade
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vinkenkade
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Emperor of the Sea
 alternative: ''Sea God'' or ''Hae-sin''
@@ -1120,14 +1063,8 @@ alternative: yellowire Not an alias of Wire Daisies!--&gt;
 title: Gökhan Özoğuz
 alternative: Athena Gökhan
 ------------
-title: Schalkwijk, Utrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Maya Bouskilla
 alternative: Maya Buskila
-------------
-title: Tull en 't Waal
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: The Bhagavad Guitars
 alternative: Inner Circle
@@ -1630,9 +1567,6 @@ alternative: Spackenkill Road
 title: Salvatore Cuffaro
 alternative: ''&quot;Totó Vasa Vasa&quot;'' &lt;br /&gt;(Totó Kiss Kiss)
 ------------
-title: Zuidland
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Fruit Gushers
 alternative: Gushers
 ------------
@@ -1819,20 +1753,11 @@ alternative: Chevrolet Corvette Sting Ray
 title: Chevrolet Corvette (C3)
 alternative: Chevrolet Corvette Stingray&lt;br&gt;(1969–1976)
 ------------
-title: Stad aan 't Haringvliet
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Krazy Kirk and the Hillbillies
 alternative: Billy Hill and the Hillbillies
 ------------
-title: Zevenhuizen, Kaag en Braassem
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Gil Grand
 alternative: |
-------------
-title: Nieuwe Wetering
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Farrah Forke
 alternative: Farrah R. Forke
@@ -1903,35 +1828,14 @@ alternative: Lotien
 title: Tower, County Cork
 alternative: {{pad top italic|Teamhair}}
 ------------
-title: Kreileroord
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Slootdorp
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Mazdaspeed3
 alternative: {{Plainlist|
-------------
-title: Westerland, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: De Haukes
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oosterland, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stroe, North Holland
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: F.Y.P
 alternative: Five Year Plan
 ------------
 title: Taipei Zoo
 alternative: Muzha Zoo|t2=木柵動物園|s2=木栅动物园|p2=Mù zhà dòngwùyuán}}
-------------
-title: Vatrop
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Animal Liberation Orchestra
 alternative: ALO
@@ -2014,38 +1918,8 @@ alternative: Betty Lucas Peterson
 title: Joy Westmore
 alternative: Joy Grisold (maiden name)
 ------------
-title: Hauwert
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oostwoud
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Benningbroek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sijbekarspel
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lambertschaag
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Marans
 alternative: {{Unbulleted list|{{lang-fr|{{noitalic|Poule de Marans}}}}}}
-------------
-title: Van Ewijcksluis
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwesluis, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oudesluis, Schagen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schagerbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sint Maartensbrug
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Sint Maartensvlotbrug
 alternative: &lt;!-- en Sint Maartenszee --&gt;&lt;!-- if different from name --&gt;
@@ -2055,12 +1929,6 @@ alternative: {{Plainlist|
 ------------
 title: Beauly railway station
 alternative: {{lang-gd|A' Mhanachainn}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
-------------
-title: Burgerbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Burgervlotbrug
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Muir of Ord railway station
 alternative: {{lang-gd|Am Blàr Dubh}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
@@ -2200,9 +2068,6 @@ alternative: {{lang-gd|Gleann Fhionnainn}}{{sfnp|Brailsford|2017|loc=Gaelic/Engl
 title: Lochailort railway station
 alternative: {{lang-gd|Loch Ailleart}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
 ------------
-title: Boekel, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Beasdale railway station
 alternative: {{lang-gd|Biasdail}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
 ------------
@@ -2211,9 +2076,6 @@ alternative: {{lang-gd|Mòrar}}{{sfn|Brailsford|2017|loc=Gaelic/English Station 
 ------------
 title: Mallaig railway station
 alternative: {{lang-gd|Malaig}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
-------------
-title: Stierop
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Dumbarton Central railway station
 alternative: {{lang-gd|Dùn Breatann Meadhain}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
@@ -2242,41 +2104,17 @@ alternative: {{lang-gd|Bàrr Geadaidh}}&lt;ref&gt;{{cite book |editor-last=Brail
 title: Kirkwood railway station
 alternative: {{lang-gd|Coille na Cille}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
 ------------
-title: Buitenkaag
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Nissan 180SX
 alternative: Nissan 180SX ([[Japan]]))
-------------
-title: Cruquius, North Holland
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Holytown railway station
 alternative: {{lang-gd|Baile a' Chuilinn}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
 ------------
-title: Rijsenhout
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vijfhuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Coatbridge Central railway station
 alternative: {{lang-gd|Coatbridge Meadhain}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
 ------------
-title: Weteringbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zwaanshoek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: 't Kabel
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Partick station
 alternative: {{lang-gd|Partaig}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
-------------
-title: Lijnden
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: 10199 Chariklo
 alternative: {{mp|1997 CU|26}}
@@ -2286,12 +2124,6 @@ alternative: Murda Mase
 ------------
 title: Yangquan
 alternative: Yangchuan
-------------
-title: Oude Meer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Leimuiderbrug
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Dalmarnock railway station
 alternative: {{lang-gd|Dail Meàrnaig}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
@@ -2305,20 +2137,11 @@ alternative: {{lang-gd|Gart Sgadain}}&lt;ref&gt;{{cite book |editor-last=Brailsf
 title: Hyundai Terracan
 alternative: Hawtai Terracan (China)
 ------------
-title: Lisserbroek
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Scotstounhill railway station
 alternative: {{lang-gd|Cnoc Scotstoun}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
 ------------
 title: Jordanhill railway station
 alternative: {{lang-gd|Cnoc Iòrdain}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
-------------
-title: Beinsdorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwebrug, North Holland
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Gleneagles railway station
 alternative: {{lang-gd|Gleann Eagas}}{{sfn|Brailsford|2017|loc=Gaelic/English Station Index}}
@@ -2400,21 +2223,6 @@ alternative: &lt;!-- N/A --&gt;
 ------------
 title: Milngavie railway station
 alternative: {{lang-gd|Muileann-Gaidh}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
-------------
-title: Ilpendam
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Watergang
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Katwoude
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zuiderwoude
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Uitdam
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Invergowrie railway station
 alternative: {{lang-gd|Inbhir Ghobhraidh}}&lt;ref&gt;{{cite book |editor-last=Brailsford |editor-first=Martyn |title=Railway Track Diagrams 1: Scotland &amp; Isle of Man |edition=6th |date=December 2017 |origyear=1987 |publisher=Trackmaps |location=Frome |isbn=978-0-9549866-9-8 |chapter=Gaelic/English Station Index |ref=harv }}&lt;/ref&gt;
@@ -2926,44 +2734,8 @@ alternative: Kate Simm
 title: Takeshi Inoue (mixed martial artist)
 alternative: Lion
 ------------
-title: Middenbeemster
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Westbeemster
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noordbeemster
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Beets, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kwadijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Middelie
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Louise Delamere
 alternative: Louise Delamare
-------------
-title: Oosthuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Warder, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schardam
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hobrede
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nibbixwoud
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zwaagdijk-West
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Louis of Praet
 alternative: Louis of Flanders, Lord of Praet&lt;br&gt;Lodewijk van Praet
@@ -3010,15 +2782,6 @@ alternative: {{pad top italic|Tigh Damhnata}}
 title: Marble Arch Caves
 alternative: Uaimh an Áirse Mharmair
 ------------
-title: Huisduinen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Julianadorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Friese Buurt
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Teddy Yip (businessman)
 alternative: Teddy Yip
 ------------
@@ -3037,77 +2800,14 @@ alternative: Qimei, Chimei, Ta Yu, Ō-shima
 title: Ford EUCD platform
 alternative: {{ubl |Volvo P3 platform}}
 ------------
-title: Kortenhoef
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Muyeveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Overmeer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hinderdam
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Horstermeer
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Highway 5 (Israel–Palestine)
 alternative: Trans-[[Samaria]] Highway
-------------
-title: Driemond
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zunderdorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Durgerdam
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Minissima
 alternative: Elswick Envoy
 ------------
-title: Holysloot
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Alberta Highway 41
 alternative: Buffalo Trail 
-------------
-title: Kanis
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Rietveld, Woerden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Geestdorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Breeveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kamerik-Mijzijde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Kamerik
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Teckop
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Harmelerwaard
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Breudijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Houtdijken
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gerverscop
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Reijerscop
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Jane Cavendish
 alternative: Jane Cheyne
@@ -3183,21 +2883,6 @@ alternative: Wei Lushi (魏璐诗)
 ------------
 title: Brampton Manor Academy
 alternative: &lt;!-- or | other_names = --&gt;
-------------
-title: Papekop
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lange Linschoten
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Snelrewaard
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ruigeweide
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Diemerbroek
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Heckmondwike Grammar School
 alternative: HGS
@@ -3702,9 +3387,6 @@ alternative: Grønnedal
 ------------
 title: Coit Albertson
 alternative: C. Albertson &lt;br&gt; Cort Albertson &lt;br&gt; E. Coit Albertson
-------------
-title: Vilsteren
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Mai Satoda
 alternative: Maichin
@@ -4423,9 +4105,6 @@ alternative: Ramadurga
 title: Vaniyambadi
 alternative: Vaniampadi
 ------------
-title: L'Alcúdia
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: John Leslie (director)
 alternative: John Lestor, Lenny Kent, John Leslie Dupree, John Leslie Dupré, Louie T. Beagle, Louis T. Beagle, John Lesley, John Lessly, Frederick Watson
 ------------
@@ -4899,9 +4578,6 @@ alternative: Sir Rodney Malcolm Aldridge
 ------------
 title: The Regime (group)
 alternative: The Smoke-A-Lot Regime&lt;br&gt;The Regime Dragon Gang
-------------
-title: Eppenhuizen
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Nkhata Bay
 alternative: Nkhata
@@ -5383,24 +5059,6 @@ alternative: &quot;Blarney con Carne&quot;&lt;ref name=rr/&gt;&lt;br&gt;&quot;Cu
 title: Andrew Kay
 alternative: Andy
 ------------
-title: Ridderbuurt
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bentveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Jisp, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Neck, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oostknollendam
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Spijkerboor, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Virgil Griffith
 alternative: Romanpoet
 ------------
@@ -5578,161 +5236,11 @@ alternative: '''چوٹی زیریں'''
 title: Yuen Siu-tien
 alternative: Simon Yuen&lt;br/&gt;Simon Yuen Siu-tien&lt;br/&gt;Siu-tien Yuen
 ------------
-title: Zierikzee
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Brouwershaven
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zonnemaire
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Dreischor
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noordgouwe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schuddebeurs, Schouwen-Duiveland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bruinisse
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwerkerk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oosterland, Zeeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sirjansland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Scharendijke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kerkwerve
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ellemeet
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Haamstede
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Burgh, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Westenschouwen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuw-Haamstede
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Renesse
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noordwelle
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Serooskerke, Schouwen-Duiveland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Brijdorpe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Burghsluis
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Elkerzee
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Looperskapelle
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Moriaanshoofd
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwerkerke
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Tha Realest
 alternative: Tha Realest&lt;br /&gt;Tenkamenin The Vigilante &lt;!--This field is not for nicknames. See [[Template:Infobox musical artist/doc]]--&gt;
 ------------
-title: Gapinge
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vrouwenpolder
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Breezand, Zeeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Serooskerke, Walcheren
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oostkapelle
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Grijpskerke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Meliskerke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Koudekerke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Dishoek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Biggekerke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Joossesweg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kortgene
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Colijnsplaat
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kats
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kamperland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wissenkerke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Geersdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stroodorp
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: S. H. Foulkes
 alternative: Michael | known_for =Pioneer in [[Group psychology]] and [[Group analysis]] | education =[[Heidelberg University]], [[Munich University]], [[Frankfurt University]], [[Vienna Psychoanalytic Society]]| employer = [[St Bartholomew's Hospital]]| occupation =Medical practitioner, [[Psychoanalyst]], [[Group analyst]] and trainer| title = | salary = | networth = | height = | weight = | term = | predecessor = | successor = | party = | boards = | religion = | spouse = Erna Foulkes| partner = | children =3 | parents =| signature = | website = | footnotes = }}
-------------
-title: Poortvliet
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Scherpenisse
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sint-Maartensdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stavenisse
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sint-Annaland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sint Philipsland (village)
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Sluis, Tholen
 alternative: De Sluis&lt;!-- if different from name --&gt;
@@ -5742,27 +5250,6 @@ alternative: Mike Stephenson, Michael Paul Stephenson
 ------------
 title: Cyndi Thomson
 alternative: Cyndi Goodman
-------------
-title: Scheendijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwer-Ter-Aa
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oukoop, Utrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Aa
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kortrijk, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kockengen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Spengen
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: James Carter Cathcart
 alternative: Billy Beach&lt;br&gt;Carter Cathcart&lt;br&gt;Nicole Cathcart&lt;br&gt;John Dorsey&lt;br&gt;Burton Halli&lt;br&gt;Rascal Flatts&lt;br&gt;Slappy Wong
@@ -5941,36 +5428,6 @@ alternative: {{lang|es|Parque Nacional Santa Rosa}}
 title: V. I. Warshawski
 alternative: Victoria Iphigenia Warshawski
 ------------
-title: Spui, Zeeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hoek, Zeeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Driewegen, Terneuzen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sluiskil
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zaamslag
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Reuzenhoek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zaamslagveer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zuiddorpe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Overslag
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zandstraat
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Marion Aye
 alternative: Maryon Aye
 ------------
@@ -6106,95 +5563,8 @@ alternative: Johnny Peebucks
 title: Laguna Las Camelias Wildlife Refuge
 alternative: {{lang|es|Refugio de Vida Silvestre Laguna Las Camelias}}
 ------------
-title: Wittelte
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Westeinde, Drenthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lhee
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lheebroek
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Maquenque National Wildlife Refuge
 alternative: {{lang|es|Refugio de Vida Silvestre Maquenque}}
-------------
-title: Eemster
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Geeuwenbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Leggeloo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Dieverbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Darp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Havelterberg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nijensleek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oude Willem
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wateren
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Holthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Brunsting
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Laaghalen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wijster
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Spier
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Drijber
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bovensmilde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hoogersmilde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Eursinge, Midden-Drenthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Elp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zuidveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zwiggelte
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Garminge
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bruntinge
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hijkersmilde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Laaghalerveen
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Post-metal
 alternative: *Art metal
@@ -6283,113 +5653,11 @@ alternative: Navarasa Thilagam
 title: Tate's Cairn
 alternative: 大老山}}'''Tate's Cairn''' ({{zh|c=大老山|cy=|l=Big Brother Mountain|s=|t=|p=}}) is a [[List of mountains, peaks and hills in Hong Kong|mountain]] in [[Hong Kong]] at {{Convert|583|m}} in height. It is one of the [[Eight Mountains of Kowloon|peaks of the Kowloon Ridge]] and falls within [[Ma On Shan Country Park]]. The peak began to appear on colonial maps in the 1860s but remained unnamed until the beginning of the 20th Century.&lt;ref&gt;{{Cite web|url=http://www.hkmaps.hk/mapviewer.html|title=HK Map Viewer|website=www.hkmaps.hk|access-date=2019-10-26}}&lt;/ref&gt;
 ------------
-title: Eext
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gasteren
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schipborg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Eexterveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Spijkerboor, Drenthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuw-Annerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Annerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Eexterveenschekanaal
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gasselte
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kostvlies
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gasselternijveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gasselterboerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gasselternijveenschemond
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gieten
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gieterveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bonnerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwediep
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nijlande
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Deurze
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nooitgedacht, Drenthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Grolloo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schoonloo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Papenvoort, Drenthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ekehaar
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ellertshaar
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bronnegerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Eeserveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Tweede Valthermond
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Vermont Route 289
 alternative: Chittenden County Circumferential Highway
 ------------
 title: Horna
 alternative: Shadowed
-------------
-title: Eelderwolde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vries, Drenthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bunne
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Winde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zeegse
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Taarlo
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Tortuguero Conservation Area
 alternative: {{lang|es|Área de Conservación Tortuguero}}
@@ -6880,26 +6148,8 @@ alternative: Berkeley Public Health
 title: Post &amp; Telecommunication Hub
 alternative: P&amp;T Centre&lt;br&gt;Guangdong Telecom Plaza 
 ------------
-title: Broek, Vijfheerenlanden
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Guinn &quot;Big Boy&quot; Williams
 alternative: Big Boy
-------------
-title: Middelkoop
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kortenhoeven
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lakerveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwland, Vijfheerenlanden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Geer, Vijfheerenlanden
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Shan Tao (Taoist)
 alternative: Juyuan (巨源)
@@ -6909,18 +6159,6 @@ alternative: Zhongrong ({{lang|zh-hant|仲容}})
 ------------
 title: Zale (band)
 alternative: Zale Connection
-------------
-title: Gelkenes
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Graafland, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Langerak, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Waal, South Holland
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Florida State Road 501
 alternative: Clearlake Road
@@ -6942,45 +6180,6 @@ alternative: Stirling Road
 ------------
 title: Honda 70
 alternative: CD 70
-------------
-title: Sellingen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Jipsinghuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Laude, Groningen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wollinghuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vlagtwedder-Veldhuis
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Pallert
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Weite
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hebrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Harpel
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ter Apelkanaal
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Munnekemoer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Laudermarke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ter Wisch
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Liang Youyu
 alternative: Gongshi &lt;br&gt; ([[courtesy name]])|t2=公實|s2=公实|p2=Gōngshí
@@ -7102,227 +6301,20 @@ alternative: American Sebright (before 1883){{r|albc2}}
 title: Thee Silver Mt. Zion Memorial Orchestra
 alternative: A Silver Mt. Zion&lt;br /&gt;Thee Silver Mountain Reveries&lt;br /&gt;Thee Silver Mt. Zion Memorial Orchestra and Tra-La-La Band with Choir
 ------------
-title: Bleskensgraaf
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Brandwijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gijbeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Goudriaan
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Molenaarsgraaf
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ottoland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Alblas
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wijngaarden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Haastrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Boven-Haastrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Beneden-Haastrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Rozendaal, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stein, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stolwijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bovenkerk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Benedenkerk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Benedenheul
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Goudseweg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Het Beijersche
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Koolwijk, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schoonouwen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bonrepas
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Giessenburg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Giessen-Oudekerk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Rietveld, Giessenlanden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hoornaar
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noordeloos
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Overslingeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schelluinen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Leusden-Zuid
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stoutenburg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Leusden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwdorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lewedorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Heinkenszand
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nisse, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ovezande
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hoedekenskerke
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kwadendamme
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Driewegen, Borsele
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ellewoutsdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Karl Kennedy
 alternative: E. M. Williams (pen name)
 ------------
 title: Eck Robertson
 alternative: |
 ------------
-title: Lattrop
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Breklenkamp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Tilligte
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nutter, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud Ootmarsum
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Groot Agelo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Klein Agelo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noord Deurningen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ootmarsum
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Weerselo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lemselo
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Rossum, Overijssel
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Volthe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Saasveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Dulder
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Deurningen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gammelke
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Catholic Church in South Korea
 alternative: 天主教 (&quot;Religion of the Lord of Heaven&quot;)
-------------
-title: Kievitswaard
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sleeuwijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwendijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kille, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hank, Werkendam
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vierbannen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Dussen
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Hoora
 alternative: Hoorah
 ------------
-title: Mariaparochie
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ulicoten
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Heikant, Oordeel
 alternative: Oordeel Heikant&lt;!-- if different from name --&gt;
-------------
-title: Heikant, Ulicoten
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hertme
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Agathla Peak
 alternative: {{unbulleted list|{{spell-nv|Aghaałą́}} {{in lang|nv}} |{{lang|es|El Capitan}} {{in lang|es}}}}
@@ -7393,59 +6385,11 @@ alternative: Pardalince Bird
 title: The Ave
 alternative: &quot;The Ave&quot;
 ------------
-title: Vierpolders
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Richard Marsh (author)
 alternative: Richard Bernard Heldmann
 ------------
-title: Rockanje
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Helhoek, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Strype, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stuifakker
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oostvoorne
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kruiningergors
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Tinte
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Honselersdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Mariëndijk
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Holiday Showdown
 alternative: ''Holiday Showdown: Extreme'' (2007–09)
-------------
-title: Rolpaal
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Maasdijk, Westland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Heenweg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwe Tuinen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Westerlee, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oostbuurt
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: General Carrera Lake
 alternative: Buenos Aires Lake &lt;br&gt; Lake Buenos Aires
@@ -7590,42 +6534,6 @@ alternative: Katherine Freeman&lt;br&gt;Jamie Peacock
 ------------
 title: Illinois Route 70
 alternative: Trask Bridge Road
-------------
-title: Winkel, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lutjewinkel
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: De Weere, Hollands Kroon
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Langereis
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwe Niedorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Terdiek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wateringskant
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Moerbeek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oude Niedorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zijdewind
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kolhorn
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Haringhuizen
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Illinois Route 75
 alternative: Freeport Road
@@ -7837,38 +6745,8 @@ alternative: Maria
 title: Dina Mann
 alternative: Diana Mann
 ------------
-title: Nieuw-Beijerland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zuidzijde, Korendijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Piershil
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zwartsluisje
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Goudswaard
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuwendijk, South Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oudendijk, Korendijk
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Band Ohne Namen
 alternative: Band Without Name;&lt;br&gt;B.O.N;&lt;br&gt;Die Allianz
-------------
-title: Zuid-Beijerland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Schenkeldijk, Korendijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Tiengemeten
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Northern Khmer dialect
 alternative: Surin Khmer
@@ -7888,179 +6766,14 @@ alternative: Mesa Ridge Parkway
 title: North Bougainville languages
 alternative: West Bougainville 
 ------------
-title: Waver, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: De Rijp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Graft, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noordeinde, Alkmaar
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: West-Graftdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oost-Graftdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Markenbinnen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: De Goorn
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Bobeldijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Spierdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ursem
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Rustenburg, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Noorddijk, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Scharwoude, Koggenland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Grosthuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oudendijk, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Tuitjenhorn
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Kerkbuurt, Schagen
 alternative: Tjerkebuur&lt;!-- if different from name --&gt;
-------------
-title: Dirkshorn
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Waarland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kalverdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Sint Maarten, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stroet
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Valkkoog
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Eenigenburg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Rijpje
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Groenveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Warmenhuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Krabbendam
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Tutrakan
 alternative: {{lang|ro|Тurtucaia}}&lt;br/&gt;{{lang|tr|Тurtukai}}
 ------------
-title: Oterleek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Driehuizen, Alkmaar
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zuidschermer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stompetoren
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zandwerven
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wadway
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hensbroek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Berkmeer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Gouwe
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: De Weere, Opmeer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Harderwijk, North Holland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Penningsveer
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Nobuta wo Produce
 alternative: 野ブタ。をプロデュース
-------------
-title: Velsen-Zuid
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Velsen-Noord
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Santpoort-Noord
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Santpoort-Zuid
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hofgeest
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Velserbroek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Meedhuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Uitwierde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Woldendorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Termunten
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Termunterzijl
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Borgsweer
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Wagenborgen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Losdorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Weiwerd
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Ambrosia (fruit salad)
 alternative: 5 cup salad
@@ -8287,42 +7000,6 @@ alternative: {{pad top italic|Gráinseach an Déin}}
 title: Atefeh Razavi
 alternative: Atefeh Razavi-Nia
 ------------
-title: Hakkelaarsbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nijkerkerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Holkerveen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hoevelaken
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: De Veenhuis
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Holk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Doornsteeg
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Slichtenhorst
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Driedorp
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nekkeveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kruishaar
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Prinsenkamp
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Reodar
 alternative: Reodar
 ------------
@@ -8430,24 +7107,6 @@ alternative: Platine Region
 ------------
 title: Inoran
 alternative: Inoran
-------------
-title: Cattenbroek
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Heeswijk, Utrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Mastwijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Blokland, Utrecht
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ockhuizen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Themaat
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Killucan and Rathwire
 alternative: {{pad top italic|Cill Lucaine}}
@@ -9055,20 +7714,11 @@ alternative: Sebastian
 title: Mark Gottlieb (Neighbours)
 alternative: Marcel Amadieu&lt;ref&gt;{{cite episode|title=Episode 1980|series=Neighbours|serieslink=Neighbours|credits=Executive producer: Alan Coleman; Director: Ian Watson; Writer: Barbara Angell|network=[[Network Ten]]|airdate=13 August 1993}}&lt;/ref&gt;
 ------------
-title: Stokkelaarsbrug
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Nevada State Route 88
 alternative: Woodfords Road
 ------------
 title: Marcin Nowak (musician)
 alternative: Novy
-------------
-title: Mijnden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Oud-Maarsseveen
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: CocoCay
 alternative: Little Stirrup Cay
@@ -9796,48 +8446,6 @@ alternative: Naza Forza
 title: Tourettes (band)
 alternative: Tourettes Syndrome
 ------------
-title: Stegerveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Stegeren
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Junne
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zeesse
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Besthmen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Giethmen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Varsen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lemele
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Dalmsholte
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Beerzerveld
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Beerze
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Witharen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vinkenbuurt
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ommerschans
-alternative: &lt;!-- if different from name --&gt;
-------------
 title: Hautlieu School
 alternative: Hautlieu
 ------------
@@ -10458,54 +9066,6 @@ alternative: Wheeling and Belmont Bridge
 ------------
 title: Jolada rotti
 alternative: Bijapur billi jollad rotti / bhakri
-------------
-title: Sint Jansteen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Clinge
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Graauw
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Zandberg, Zeeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Paal, Netherlands
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Heikant, Zeeland
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Nieuw-Namen
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kapellebrug
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kloosterzande
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Walsoorden
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Lamswaarde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Kuitaart
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Terhole
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Vogelwaarde
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Hengstdijk
-alternative: &lt;!-- if different from name --&gt;
-------------
-title: Ossenisse
-alternative: &lt;!-- if different from name --&gt;
 ------------
 title: Mia Wallace
 alternative: Mrs. Wallace

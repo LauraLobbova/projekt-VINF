@@ -327,17 +327,8 @@ alternative: Treeing Feist, Treeing Terrier, Ratting Terrier, Rat Terrier
 title: Lincoln Custom
 3-speed manual with overdrive
 -----------
-title: Elst, Utrecht
-alternative: 
------------
-title: Zegveld
-alternative: 
------------
 title: Jonathan Gledhill
 alternative: Jonathan Michael ,  
------------
-title: Loenersloot
-alternative: 
 -----------
 title: Ogawa Kazumasa
 alternative: Ogawa Kazuma, Ogawa Isshin
@@ -347,15 +338,6 @@ alternative: Foreign Exchange with Daljit Dhaliwal
 -----------
 title: Hamilton Central railway station
 alternative: lang-gd, Hamaltan Mheadhain
------------
-title: Groenekan
-alternative: 
------------
-title: Westbroek
-alternative: 
------------
-title: Maartensdijk
-alternative: 
 -----------
 title: The Tarzan/Lone Ranger Adventure Hour
 alternative: The Tarzan/Lone Ranger/Zorro Adventure Hour
@@ -483,26 +465,8 @@ Gaelic/English Station Index
 title: Prestwick International Airport railway station
 alternative: lang-gd, Port-adhair Eadar-nàiseanta Phreastabhaig
 -----------
-title: Werkhoven
-alternative: 
------------
-title: Benschop, Utrecht
-alternative: 
------------
-title: Cabauw
-alternative: 
------------
-title: Jaarsveld
-alternative: 
------------
-title: Lopikerkapel
-alternative: 
------------
 title: Gid Tanner
 alternative: Gid Tanner, 
------------
-title: Uitweg
-alternative: 
 -----------
 title: Harald Blüchel
 alternative: B-Culture, Cosmic Baby, Cosmic Enterprises, Cosmic Inc., De Luxe 63, Startrek
@@ -1043,38 +1007,17 @@ alternative: New Zealand Huntaway, New Zealand Sheepdog
 title: ITV Telethon
 alternative: Thames Telethon
 -----------
-title: Hekendorp
-alternative: 
------------
 title: Tatra National Park, Poland
 alternative: Tatrzański Park Narodowy
 -----------
-title: Kamerik
-alternative: 
------------
-title: Linschoten (village)
-alternative: 
------------
-title: Oud-Zuilen
-alternative: 
------------
 title: Bean salad
 alternative: Three Bean Salad, Four Bean Salad, etc.
------------
-title: Tienhoven, Stichtse Vecht
-alternative: 
 -----------
 title: Colgate Rochester Crozer Divinity School
 alternative: CRCDS
 -----------
 title: K. V. Narayanaswamy
 alternative: KVN
------------
-title: Groenlandsekade
-alternative: 
------------
-title: Vinkenkade
-alternative: 
 -----------
 title: Emperor of the Sea
 alternative: Sea God or Hae-sin
@@ -1118,14 +1061,8 @@ alternative: yellowire Not an alias of Wire Daisies!--
 title: Gökhan Özoğuz
 alternative: Athena Gökhan
 -----------
-title: Schalkwijk, Utrecht
-alternative: 
------------
 title: Maya Bouskilla
 alternative: Maya Buskila
------------
-title: Tull en 't Waal
-alternative: 
 -----------
 title: The Bhagavad Guitars
 alternative: Inner Circle
@@ -1627,9 +1564,6 @@ alternative: Spackenkill Road
 title: Salvatore Cuffaro
 alternative: Totó Vasa Vasa , (Totó Kiss Kiss)
 -----------
-title: Zuidland
-alternative: 
------------
 title: Fruit Gushers
 alternative: Gushers
 -----------
@@ -1816,20 +1750,11 @@ alternative: Chevrolet Corvette Sting Ray
 title: Chevrolet Corvette (C3)
 alternative: Chevrolet Corvette Stingray,(1969–1976)
 -----------
-title: Stad aan 't Haringvliet
-alternative: 
------------
 title: Krazy Kirk and the Hillbillies
 alternative: Billy Hill and the Hillbillies
 -----------
-title: Zevenhuizen, Kaag en Braassem
-alternative: 
------------
 title: Gil Grand
 alternative: , 
------------
-title: Nieuwe Wetering
-alternative: 
 -----------
 title: Farrah Forke
 alternative: Farrah R. Forke
@@ -1900,35 +1825,14 @@ alternative: Lotien
 title: Tower, County Cork
 alternative:  Teamhair
 -----------
-title: Kreileroord
-alternative: 
------------
-title: Slootdorp
-alternative: 
------------
 title: Mazdaspeed3
 alternative:  
------------
-title: Westerland, Netherlands
-alternative: 
------------
-title: De Haukes
-alternative: 
------------
-title: Oosterland, North Holland
-alternative: 
------------
-title: Stroe, North Holland
-alternative: 
 -----------
 title: F.Y.P
 alternative: Five Year Plan
 -----------
 title: Taipei Zoo
 Mù zhà dòngwùyuán
------------
-title: Vatrop
-alternative: 
 -----------
 title: Animal Liberation Orchestra
 alternative: ALO
@@ -2011,38 +1915,8 @@ alternative: Betty Lucas Peterson
 title: Joy Westmore
 alternative: Joy Grisold (maiden name)
 -----------
-title: Hauwert
-alternative: 
------------
-title: Oostwoud
-alternative: 
------------
-title: Benningbroek
-alternative: 
------------
-title: Sijbekarspel
-alternative: 
------------
-title: Lambertschaag
-alternative: 
------------
 title: Marans
 alternative: Un  noitalic, Poule de Marans
------------
-title: Van Ewijcksluis
-alternative: 
------------
-title: Nieuwesluis, North Holland
-alternative: 
------------
-title: Oudesluis, Schagen
-alternative: 
------------
-title: Schagerbrug
-alternative: 
------------
-title: Sint Maartensbrug
-alternative: 
 -----------
 title: Sint Maartensvlotbrug
 alternative: 
@@ -2052,12 +1926,6 @@ alternative:
 -----------
 title: Beauly railway station
 alternative: lang-gd, A Mhanachainn
------------
-title: Burgerbrug
-alternative: 
------------
-title: Burgervlotbrug
-alternative: 
 -----------
 title: Muir of Ord railway station
 Gaelic/English Station Index
@@ -2197,9 +2065,6 @@ Gaelic/English Station Index
 title: Lochailort railway station
 Gaelic/English Station Index
 -----------
-title: Boekel, North Holland
-alternative: 
------------
 title: Beasdale railway station
 Gaelic/English Station Index
 -----------
@@ -2208,9 +2073,6 @@ Gaelic/English Station Index
 -----------
 title: Mallaig railway station
 Gaelic/English Station Index
------------
-title: Stierop
-alternative: 
 -----------
 title: Dumbarton Central railway station
 alternative: lang-gd, Dùn Breatann Meadhain
@@ -2239,41 +2101,17 @@ alternative: lang-gd, Bàrr Geadaidh
 title: Kirkwood railway station
 alternative: lang-gd, Coille na Cille
 -----------
-title: Buitenkaag
-alternative: 
------------
 title: Nissan 180SX
 alternative: Nissan 180SX (Japan))
------------
-title: Cruquius, North Holland
-alternative: 
 -----------
 title: Holytown railway station
 Gaelic/English Station Index
 -----------
-title: Rijsenhout
-alternative: 
------------
-title: Vijfhuizen
-alternative: 
------------
 title: Coatbridge Central railway station
 Gaelic/English Station Index
 -----------
-title: Weteringbrug
-alternative: 
------------
-title: Zwaanshoek
-alternative: 
------------
-title: 't Kabel
-alternative: 
------------
 title: Partick station
 Gaelic/English Station Index
------------
-title: Lijnden
-alternative: 
 -----------
 title: 10199 Chariklo
 alternative: mp, 1997 CU, 26
@@ -2283,12 +2121,6 @@ alternative: Murda Mase
 -----------
 title: Yangquan
 alternative: Yangchuan
------------
-title: Oude Meer
-alternative: 
------------
-title: Leimuiderbrug
-alternative: 
 -----------
 title: Dalmarnock railway station
 Gaelic/English Station Index
@@ -2302,20 +2134,11 @@ alternative: lang-gd, Gart Sgadain
 title: Hyundai Terracan
 alternative: Hawtai Terracan (China)
 -----------
-title: Lisserbroek
-alternative: 
------------
 title: Scotstounhill railway station
 alternative: lang-gd, Cnoc Scotstoun
 -----------
 title: Jordanhill railway station
 alternative: lang-gd, Cnoc Iòrdain
------------
-title: Beinsdorp
-alternative: 
------------
-title: Nieuwebrug, North Holland
-alternative: 
 -----------
 title: Gleneagles railway station
 Gaelic/English Station Index
@@ -2397,21 +2220,6 @@ alternative:
 -----------
 title: Milngavie railway station
 alternative: lang-gd, Muileann-Gaidh
------------
-title: Ilpendam
-alternative: 
------------
-title: Watergang
-alternative: 
------------
-title: Katwoude
-alternative: 
------------
-title: Zuiderwoude
-alternative: 
------------
-title: Uitdam
-alternative: 
 -----------
 title: Invergowrie railway station
 alternative: lang-gd, Inbhir Ghobhraidh
@@ -2922,44 +2730,8 @@ alternative: Kate Simm
 title: Takeshi Inoue (mixed martial artist)
 alternative: Lion
 -----------
-title: Middenbeemster
-alternative: 
------------
-title: Westbeemster
-alternative: 
------------
-title: Noordbeemster
-alternative: 
------------
-title: Beets, Netherlands
-alternative: 
------------
-title: Kwadijk
-alternative: 
------------
-title: Middelie
-alternative: 
------------
 title: Louise Delamere
 alternative: Louise Delamare
------------
-title: Oosthuizen
-alternative: 
------------
-title: Warder, Netherlands
-alternative: 
------------
-title: Schardam
-alternative: 
------------
-title: Hobrede
-alternative: 
------------
-title: Nibbixwoud
-alternative: 
------------
-title: Zwaagdijk-West
-alternative: 
 -----------
 title: Louis of Praet
 alternative: Louis of Flanders, Lord of Praet,Lodewijk van Praet
@@ -3006,15 +2778,6 @@ alternative:  Tigh Damhnata
 title: Marble Arch Caves
 alternative: Uaimh an Áirse Mharmair
 -----------
-title: Huisduinen
-alternative: 
------------
-title: Julianadorp
-alternative: 
------------
-title: Friese Buurt
-alternative: 
------------
 title: Teddy Yip (businessman)
 alternative: Teddy Yip
 -----------
@@ -3033,77 +2796,14 @@ alternative: Qimei, Chimei, Ta Yu, Ō-shima
 title: Ford EUCD platform
 alternative:  , Volvo P3 platform
 -----------
-title: Kortenhoef
-alternative: 
------------
-title: Muyeveld
-alternative: 
------------
-title: Overmeer
-alternative: 
------------
-title: Hinderdam
-alternative: 
------------
-title: Horstermeer
-alternative: 
------------
 title: Highway 5 (Israel–Palestine)
 alternative: Trans-Samaria Highway
------------
-title: Driemond
-alternative: 
------------
-title: Zunderdorp
-alternative: 
------------
-title: Durgerdam
-alternative: 
 -----------
 title: Minissima
 alternative: Elswick Envoy
 -----------
-title: Holysloot
-alternative: 
------------
 title: Alberta Highway 41
 alternative: Buffalo Trail 
------------
-title: Kanis
-alternative: 
------------
-title: Rietveld, Woerden
-alternative: 
------------
-title: Geestdorp
-alternative: 
------------
-title: Breeveld
-alternative: 
------------
-title: Kamerik-Mijzijde
-alternative: 
------------
-title: Oud-Kamerik
-alternative: 
------------
-title: Teckop
-alternative: 
------------
-title: Harmelerwaard
-alternative: 
------------
-title: Breudijk
-alternative: 
------------
-title: Houtdijken
-alternative: 
------------
-title: Gerverscop
-alternative: 
------------
-title: Reijerscop
-alternative: 
 -----------
 title: Jane Cavendish
 alternative: Jane Cheyne
@@ -3178,21 +2878,6 @@ title: Ruth Weiss (journalist)
 alternative: Wei Lushi (魏璐诗)
 -----------
 title: Brampton Manor Academy
-alternative: 
------------
-title: Papekop
-alternative: 
------------
-title: Lange Linschoten
-alternative: 
------------
-title: Snelrewaard
-alternative: 
------------
-title: Ruigeweide
-alternative: 
------------
-title: Diemerbroek
 alternative: 
 -----------
 title: Heckmondwike Grammar School
@@ -3698,9 +3383,6 @@ alternative: Grønnedal
 -----------
 title: Coit Albertson
 alternative: C. Albertson , Cort Albertson , E. Coit Albertson
------------
-title: Vilsteren
-alternative: 
 -----------
 title: Mai Satoda
 alternative: Maichin
@@ -4419,9 +4101,6 @@ alternative: Ramadurga
 title: Vaniyambadi
 alternative: Vaniampadi
 -----------
-title: L'Alcúdia
-alternative: 
------------
 title: John Leslie (director)
 alternative: John Lestor, Lenny Kent, John Leslie Dupree, John Leslie Dupré, Louie T. Beagle, Louis T. Beagle, John Lesley, John Lessly, Frederick Watson
 -----------
@@ -4893,9 +4572,6 @@ alternative: Sir Rodney Malcolm Aldridge
 -----------
 title: The Regime (group)
 alternative: The Smoke-A-Lot Regime,The Regime Dragon Gang
------------
-title: Eppenhuizen
-alternative: 
 -----------
 title: Nkhata Bay
 alternative: Nkhata
@@ -5377,24 +5053,6 @@ alternative: Blarney con Carne
 title: Andrew Kay
 alternative: Andy
 -----------
-title: Ridderbuurt
-alternative: 
------------
-title: Bentveld
-alternative: 
------------
-title: Jisp, North Holland
-alternative: 
------------
-title: Neck, Netherlands
-alternative: 
------------
-title: Oostknollendam
-alternative: 
------------
-title: Spijkerboor, North Holland
-alternative: 
------------
 title: Virgil Griffith
 alternative: Romanpoet
 -----------
@@ -5572,160 +5230,10 @@ alternative: چوٹی زیریں
 title: Yuen Siu-tien
 alternative: Simon Yuen,Simon Yuen Siu-tien,Siu-tien Yuen
 -----------
-title: Zierikzee
-alternative: 
------------
-title: Brouwershaven
-alternative: 
------------
-title: Zonnemaire
-alternative: 
------------
-title: Dreischor
-alternative: 
------------
-title: Noordgouwe
-alternative: 
------------
-title: Schuddebeurs, Schouwen-Duiveland
-alternative: 
------------
-title: Bruinisse
-alternative: 
------------
-title: Nieuwerkerk
-alternative: 
------------
-title: Oosterland, Zeeland
-alternative: 
------------
-title: Sirjansland
-alternative: 
------------
-title: Scharendijke
-alternative: 
------------
-title: Kerkwerve
-alternative: 
------------
-title: Ellemeet
-alternative: 
------------
-title: Haamstede
-alternative: 
------------
-title: Burgh, Netherlands
-alternative: 
------------
-title: Westenschouwen
-alternative: 
------------
-title: Nieuw-Haamstede
-alternative: 
------------
-title: Renesse
-alternative: 
------------
-title: Noordwelle
-alternative: 
------------
-title: Serooskerke, Schouwen-Duiveland
-alternative: 
------------
-title: Brijdorpe
-alternative: 
------------
-title: Burghsluis
-alternative: 
------------
-title: Elkerzee
-alternative: 
------------
-title: Looperskapelle
-alternative: 
------------
-title: Moriaanshoofd
-alternative: 
------------
-title: Nieuwerkerke
-alternative: 
------------
 title: Tha Realest
 alternative: Tha Realest, Tenkamenin The Vigilante 
 -----------
-title: Gapinge
-alternative: 
------------
-title: Vrouwenpolder
-alternative: 
------------
-title: Breezand, Zeeland
-alternative: 
------------
-title: Serooskerke, Walcheren
-alternative: 
------------
-title: Oostkapelle
-alternative: 
------------
-title: Grijpskerke
-alternative: 
------------
-title: Meliskerke
-alternative: 
------------
-title: Koudekerke
-alternative: 
------------
-title: Dishoek
-alternative: 
------------
-title: Biggekerke
-alternative: 
------------
-title: Joossesweg
-alternative: 
------------
-title: Kortgene
-alternative: 
------------
-title: Colijnsplaat
-alternative: 
------------
-title: Kats
-alternative: 
------------
-title: Kamperland
-alternative: 
------------
-title: Wissenkerke
-alternative: 
------------
-title: Geersdijk
-alternative: 
------------
-title: Stroodorp
-alternative: 
------------
 title: S. H. Foulkes
------------
-title: Poortvliet
-alternative: 
------------
-title: Scherpenisse
-alternative: 
------------
-title: Sint-Maartensdijk
-alternative: 
------------
-title: Stavenisse
-alternative: 
------------
-title: Sint-Annaland
-alternative: 
------------
-title: Sint Philipsland (village)
-alternative: 
 -----------
 title: Sluis, Tholen
 alternative: De Sluis
@@ -5735,27 +5243,6 @@ alternative: Mike Stephenson, Michael Paul Stephenson
 -----------
 title: Cyndi Thomson
 alternative: Cyndi Goodman
------------
-title: Scheendijk
-alternative: 
------------
-title: Nieuwer-Ter-Aa
-alternative: 
------------
-title: Oukoop, Utrecht
-alternative: 
------------
-title: Oud-Aa
-alternative: 
------------
-title: Kortrijk, Netherlands
-alternative: 
------------
-title: Kockengen
-alternative: 
------------
-title: Spengen
-alternative: 
 -----------
 title: James Carter Cathcart
 alternative: Billy Beach,Carter Cathcart,Nicole Cathcart,John Dorsey,Burton Halli,Rascal Flatts,Slappy Wong
@@ -5933,36 +5420,6 @@ alternative: lang, es, Parque Nacional Santa Rosa
 title: V. I. Warshawski
 alternative: Victoria Iphigenia Warshawski
 -----------
-title: Spui, Zeeland
-alternative: 
------------
-title: Hoek, Zeeland
-alternative: 
------------
-title: Driewegen, Terneuzen
-alternative: 
------------
-title: Sluiskil
-alternative: 
------------
-title: Zaamslag
-alternative: 
------------
-title: Reuzenhoek
-alternative: 
------------
-title: Zaamslagveer
-alternative: 
------------
-title: Zuiddorpe
-alternative: 
------------
-title: Overslag
-alternative: 
------------
-title: Zandstraat
-alternative: 
------------
 title: Marion Aye
 alternative: Maryon Aye
 -----------
@@ -6097,95 +5554,8 @@ alternative: Johnny Peebucks
 title: Laguna Las Camelias Wildlife Refuge
 alternative: lang, es, Refugio de Vida Silvestre Laguna Las Camelias
 -----------
-title: Wittelte
-alternative: 
------------
-title: Westeinde, Drenthe
-alternative: 
------------
-title: Lhee
-alternative: 
------------
-title: Lheebroek
-alternative: 
------------
 title: Maquenque National Wildlife Refuge
 alternative: lang, es, Refugio de Vida Silvestre Maquenque
------------
-title: Eemster
-alternative: 
------------
-title: Geeuwenbrug
-alternative: 
------------
-title: Leggeloo
-alternative: 
------------
-title: Dieverbrug
-alternative: 
------------
-title: Darp
-alternative: 
------------
-title: Havelterberg
-alternative: 
------------
-title: Nijensleek
-alternative: 
------------
-title: Oude Willem
-alternative: 
------------
-title: Wateren
-alternative: 
------------
-title: Holthe
-alternative: 
------------
-title: Brunsting
-alternative: 
------------
-title: Laaghalen
-alternative: 
------------
-title: Wijster
-alternative: 
------------
-title: Spier
-alternative: 
------------
-title: Drijber
-alternative: 
------------
-title: Bovensmilde
-alternative: 
------------
-title: Hoogersmilde
-alternative: 
------------
-title: Eursinge, Midden-Drenthe
-alternative: 
------------
-title: Elp
-alternative: 
------------
-title: Zuidveld
-alternative: 
------------
-title: Zwiggelte
-alternative: 
------------
-title: Garminge
-alternative: 
------------
-title: Bruntinge
-alternative: 
------------
-title: Hijkersmilde
-alternative: 
------------
-title: Laaghalerveen
-alternative: 
 -----------
 title: Post-metal
 alternative: *Art metal
@@ -6274,113 +5644,11 @@ alternative: Navarasa Thilagam
 title: Tate's Cairn
 ) is a List of mountains, peaks and hills in Hong Kong, mountain in Hong Kong at Convert, 583, m in height. It is one of the Eight Mountains of Kowloon, peaks of the Kowloon Ridge and falls within Ma On Shan Country Park. The peak began to appear on colonial maps in the 1860s but remained unnamed until the beginning of the 20th Century.
 -----------
-title: Eext
-alternative: 
------------
-title: Gasteren
-alternative: 
------------
-title: Schipborg
-alternative: 
------------
-title: Eexterveen
-alternative: 
------------
-title: Spijkerboor, Drenthe
-alternative: 
------------
-title: Nieuw-Annerveen
-alternative: 
------------
-title: Oud-Annerveen
-alternative: 
------------
-title: Eexterveenschekanaal
-alternative: 
------------
-title: Gasselte
-alternative: 
------------
-title: Kostvlies
-alternative: 
------------
-title: Gasselternijveen
-alternative: 
------------
-title: Gasselterboerveen
-alternative: 
------------
-title: Gasselternijveenschemond
-alternative: 
------------
-title: Gieten
-alternative: 
------------
-title: Gieterveen
-alternative: 
------------
-title: Bonnerveen
-alternative: 
------------
-title: Nieuwediep
-alternative: 
------------
-title: Nijlande
-alternative: 
------------
-title: Deurze
-alternative: 
------------
-title: Nooitgedacht, Drenthe
-alternative: 
------------
-title: Grolloo
-alternative: 
------------
-title: Schoonloo
-alternative: 
------------
-title: Papenvoort, Drenthe
-alternative: 
------------
-title: Ekehaar
-alternative: 
------------
-title: Ellertshaar
-alternative: 
------------
-title: Bronnegerveen
-alternative: 
------------
-title: Eeserveen
-alternative: 
------------
-title: Tweede Valthermond
-alternative: 
------------
 title: Vermont Route 289
 alternative: Chittenden County Circumferential Highway
 -----------
 title: Horna
 alternative: Shadowed
------------
-title: Eelderwolde
-alternative: 
------------
-title: Vries, Drenthe
-alternative: 
------------
-title: Bunne
-alternative: 
------------
-title: Winde
-alternative: 
------------
-title: Zeegse
-alternative: 
------------
-title: Taarlo
-alternative: 
 -----------
 title: Tortuguero Conservation Area
 alternative: lang, es, Área de Conservación Tortuguero
@@ -6869,26 +6137,8 @@ alternative: Berkeley Pic Health
 title: Post &amp; Telecommunication Hub
 alternative: P&T Centre,Guangdong Telecom Plaza 
 -----------
-title: Broek, Vijfheerenlanden
-alternative: 
------------
 title: Guinn &quot;Big Boy&quot; Williams
 alternative: Big Boy
------------
-title: Middelkoop
-alternative: 
------------
-title: Kortenhoeven
-alternative: 
------------
-title: Lakerveld
-alternative: 
------------
-title: Nieuwland, Vijfheerenlanden
-alternative: 
------------
-title: Geer, Vijfheerenlanden
-alternative: 
 -----------
 title: Shan Tao (Taoist)
 alternative: Juyuan (巨源)
@@ -6898,18 +6148,6 @@ alternative: Zhongrong (lang, zh-hant, 仲容)
 -----------
 title: Zale (band)
 alternative: Zale Connection
------------
-title: Gelkenes
-alternative: 
------------
-title: Graafland, South Holland
-alternative: 
------------
-title: Langerak, South Holland
-alternative: 
------------
-title: Waal, South Holland
-alternative: 
 -----------
 title: Florida State Road 501
 alternative: Clearlake Road
@@ -6931,45 +6169,6 @@ alternative: Stirling Road
 -----------
 title: Honda 70
 alternative: CD 70
------------
-title: Sellingen
-alternative: 
------------
-title: Jipsinghuizen
-alternative: 
------------
-title: Laude, Groningen
-alternative: 
------------
-title: Wollinghuizen
-alternative: 
------------
-title: Vlagtwedder-Veldhuis
-alternative: 
------------
-title: Pallert
-alternative: 
------------
-title: Weite
-alternative: 
------------
-title: Hebrecht
-alternative: 
------------
-title: Harpel
-alternative: 
------------
-title: Ter Apelkanaal
-alternative: 
------------
-title: Munnekemoer
-alternative: 
------------
-title: Laudermarke
-alternative: 
------------
-title: Ter Wisch
-alternative: 
 -----------
 title: Liang Youyu
 Gōngshí
@@ -7091,227 +6290,20 @@ alternative: American Sebright (before 1883)r, albc2
 title: Thee Silver Mt. Zion Memorial Orchestra
 alternative: A Silver Mt. Zion, Thee Silver Mountain Reveries, Thee Silver Mt. Zion Memorial Orchestra and Tra-La-La Band with Choir
 -----------
-title: Bleskensgraaf
-alternative: 
------------
-title: Brandwijk
-alternative: 
------------
-title: Gijbeland
-alternative: 
------------
-title: Goudriaan
-alternative: 
------------
-title: Molenaarsgraaf
-alternative: 
------------
-title: Ottoland
-alternative: 
------------
-title: Oud-Alblas
-alternative: 
------------
-title: Wijngaarden
-alternative: 
------------
-title: Haastrecht
-alternative: 
------------
-title: Boven-Haastrecht
-alternative: 
------------
-title: Beneden-Haastrecht
-alternative: 
------------
-title: Rozendaal, South Holland
-alternative: 
------------
-title: Stein, South Holland
-alternative: 
------------
-title: Stolwijk
-alternative: 
------------
-title: Bovenkerk
-alternative: 
------------
-title: Benedenkerk
-alternative: 
------------
-title: Benedenheul
-alternative: 
------------
-title: Goudseweg
-alternative: 
------------
-title: Het Beijersche
-alternative: 
------------
-title: Koolwijk, South Holland
-alternative: 
------------
-title: Schoonouwen
-alternative: 
------------
-title: Bonrepas
-alternative: 
------------
-title: Giessenburg
-alternative: 
------------
-title: Giessen-Oudekerk
-alternative: 
------------
-title: Rietveld, Giessenlanden
-alternative: 
------------
-title: Hoornaar
-alternative: 
------------
-title: Noordeloos
-alternative: 
------------
-title: Overslingeland
-alternative: 
------------
-title: Schelluinen
-alternative: 
------------
-title: Leusden-Zuid
-alternative: 
------------
-title: Stoutenburg
-alternative: 
------------
-title: Oud-Leusden
-alternative: 
------------
-title: Nieuwdorp
-alternative: 
------------
-title: Lewedorp
-alternative: 
------------
-title: Heinkenszand
-alternative: 
------------
-title: Nisse, Netherlands
-alternative: 
------------
-title: Ovezande
-alternative: 
------------
-title: Hoedekenskerke
-alternative: 
------------
-title: Kwadendamme
-alternative: 
------------
-title: Driewegen, Borsele
-alternative: 
------------
-title: Ellewoutsdijk
-alternative: 
------------
 title: Karl Kennedy
 alternative: E. M. Williams (pen name)
 -----------
 title: Eck Robertson
 alternative: , 
 -----------
-title: Lattrop
-alternative: 
------------
-title: Breklenkamp
-alternative: 
------------
-title: Tilligte
-alternative: 
------------
-title: Nutter, Netherlands
-alternative: 
------------
-title: Oud Ootmarsum
-alternative: 
------------
-title: Groot Agelo
-alternative: 
------------
-title: Klein Agelo
-alternative: 
------------
-title: Noord Deurningen
-alternative: 
------------
-title: Ootmarsum
-alternative: 
------------
-title: Weerselo
-alternative: 
------------
-title: Lemselo
-alternative: 
------------
-title: Rossum, Overijssel
-alternative: 
------------
-title: Volthe
-alternative: 
------------
-title: Saasveld
-alternative: 
------------
-title: Dulder
-alternative: 
------------
-title: Deurningen
-alternative: 
------------
-title: Gammelke
-alternative: 
------------
 title: Catholic Church in South Korea
 alternative: 天主教 (Religion of the Lord of Heaven)
------------
-title: Kievitswaard
-alternative: 
------------
-title: Sleeuwijk
-alternative: 
------------
-title: Nieuwendijk
-alternative: 
------------
-title: Kille, Netherlands
-alternative: 
------------
-title: Hank, Werkendam
-alternative: 
------------
-title: Vierbannen
-alternative: 
------------
-title: Dussen
-alternative: 
 -----------
 title: Hoora
 alternative: Hoorah
 -----------
-title: Mariaparochie
-alternative: 
------------
-title: Ulicoten
-alternative: 
------------
 title: Heikant, Oordeel
 alternative: Oordeel Heikant
------------
-title: Heikant, Ulicoten
-alternative: 
------------
-title: Hertme
-alternative: 
 -----------
 title: Agathla Peak
 alternative: un spell-nv, Aghaałą́ in lang, nv , lang, es, El Capitan in lang, es
@@ -7382,59 +6374,11 @@ alternative: Pardalince Bird
 title: The Ave
 alternative: The Ave
 -----------
-title: Vierpolders
-alternative: 
------------
 title: Richard Marsh (author)
 alternative: Richard Bernard Heldmann
 -----------
-title: Rockanje
-alternative: 
------------
-title: Helhoek, South Holland
-alternative: 
------------
-title: Strype, Netherlands
-alternative: 
------------
-title: Stuifakker
-alternative: 
------------
-title: Oostvoorne
-alternative: 
------------
-title: Kruiningergors
-alternative: 
------------
-title: Tinte
-alternative: 
------------
-title: Honselersdijk
-alternative: 
------------
-title: Mariëndijk
-alternative: 
------------
 title: Holiday Showdown
 alternative: Holiday Showdown: Extreme (2007–09)
------------
-title: Rolpaal
-alternative: 
------------
-title: Maasdijk, Westland
-alternative: 
------------
-title: Heenweg
-alternative: 
------------
-title: Nieuwe Tuinen
-alternative: 
------------
-title: Westerlee, South Holland
-alternative: 
------------
-title: Oostbuurt
-alternative: 
 -----------
 title: General Carrera Lake
 alternative: Buenos Aires Lake , Lake Buenos Aires
@@ -7579,42 +6523,6 @@ alternative: Katherine Freeman,Jamie Peacock
 -----------
 title: Illinois Route 70
 alternative: Trask Bridge Road
------------
-title: Winkel, North Holland
-alternative: 
------------
-title: Lutjewinkel
-alternative: 
------------
-title: De Weere, Hollands Kroon
-alternative: 
------------
-title: Langereis
-alternative: 
------------
-title: Nieuwe Niedorp
-alternative: 
------------
-title: Terdiek
-alternative: 
------------
-title: Wateringskant
-alternative: 
------------
-title: Moerbeek
-alternative: 
------------
-title: Oude Niedorp
-alternative: 
------------
-title: Zijdewind
-alternative: 
------------
-title: Kolhorn
-alternative: 
------------
-title: Haringhuizen
-alternative: 
 -----------
 title: Illinois Route 75
 alternative: Freeport Road
@@ -7826,38 +6734,8 @@ alternative: Maria
 title: Dina Mann
 alternative: Diana Mann
 -----------
-title: Nieuw-Beijerland
-alternative: 
------------
-title: Zuidzijde, Korendijk
-alternative: 
------------
-title: Piershil
-alternative: 
------------
-title: Zwartsluisje
-alternative: 
------------
-title: Goudswaard
-alternative: 
------------
-title: Nieuwendijk, South Holland
-alternative: 
------------
-title: Oudendijk, Korendijk
-alternative: 
------------
 title: Band Ohne Namen
 alternative: Band Without Name;,B.O.N;,Die Allianz
------------
-title: Zuid-Beijerland
-alternative: 
------------
-title: Schenkeldijk, Korendijk
-alternative: 
------------
-title: Tiengemeten
-alternative: 
 -----------
 title: Northern Khmer dialect
 alternative: Surin Khmer
@@ -7877,179 +6755,14 @@ alternative: Mesa Ridge Parkway
 title: North Bougainville languages
 alternative: West Bougainville 
 -----------
-title: Waver, Netherlands
-alternative: 
------------
-title: De Rijp
-alternative: 
------------
-title: Graft, Netherlands
-alternative: 
------------
-title: Noordeinde, Alkmaar
-alternative: 
------------
-title: West-Graftdijk
-alternative: 
------------
-title: Oost-Graftdijk
-alternative: 
------------
-title: Markenbinnen
-alternative: 
------------
-title: De Goorn
-alternative: 
------------
-title: Bobeldijk
-alternative: 
------------
-title: Spierdijk
-alternative: 
------------
-title: Ursem
-alternative: 
------------
-title: Rustenburg, North Holland
-alternative: 
------------
-title: Noorddijk, North Holland
-alternative: 
------------
-title: Scharwoude, Koggenland
-alternative: 
------------
-title: Grosthuizen
-alternative: 
------------
-title: Oudendijk, North Holland
-alternative: 
------------
-title: Tuitjenhorn
-alternative: 
------------
 title: Kerkbuurt, Schagen
 alternative: Tjerkebuur
------------
-title: Dirkshorn
-alternative: 
------------
-title: Waarland
-alternative: 
------------
-title: Kalverdijk
-alternative: 
------------
-title: Sint Maarten, North Holland
-alternative: 
------------
-title: Stroet
-alternative: 
------------
-title: Valkkoog
-alternative: 
------------
-title: Eenigenburg
-alternative: 
------------
-title: Rijpje
-alternative: 
------------
-title: Groenveld
-alternative: 
------------
-title: Warmenhuizen
-alternative: 
------------
-title: Krabbendam
-alternative: 
 -----------
 title: Tutrakan
 alternative: lang, ro, Тurtucaia,lang, tr, Тurtukai
 -----------
-title: Oterleek
-alternative: 
------------
-title: Driehuizen, Alkmaar
-alternative: 
------------
-title: Zuidschermer
-alternative: 
------------
-title: Stompetoren
-alternative: 
------------
-title: Zandwerven
-alternative: 
------------
-title: Wadway
-alternative: 
------------
-title: Hensbroek
-alternative: 
------------
-title: Berkmeer
-alternative: 
------------
-title: Gouwe
-alternative: 
------------
-title: De Weere, Opmeer
-alternative: 
------------
-title: Harderwijk, North Holland
-alternative: 
------------
-title: Penningsveer
-alternative: 
------------
 title: Nobuta wo Produce
 alternative: 野ブタ。をプロデュース
------------
-title: Velsen-Zuid
-alternative: 
------------
-title: Velsen-Noord
-alternative: 
------------
-title: Santpoort-Noord
-alternative: 
------------
-title: Santpoort-Zuid
-alternative: 
------------
-title: Hofgeest
-alternative: 
------------
-title: Velserbroek
-alternative: 
------------
-title: Meedhuizen
-alternative: 
------------
-title: Uitwierde
-alternative: 
------------
-title: Woldendorp
-alternative: 
------------
-title: Termunten
-alternative: 
------------
-title: Termunterzijl
-alternative: 
------------
-title: Borgsweer
-alternative: 
------------
-title: Wagenborgen
-alternative: 
------------
-title: Losdorp
-alternative: 
------------
-title: Weiwerd
-alternative: 
 -----------
 title: Ambrosia (fruit salad)
 alternative: 5 cup salad
@@ -8275,42 +6988,6 @@ alternative:  Gráinseach an Déin
 title: Atefeh Razavi
 alternative: Atefeh Razavi-Nia
 -----------
-title: Hakkelaarsbrug
-alternative: 
------------
-title: Nijkerkerveen
-alternative: 
------------
-title: Holkerveen
-alternative: 
------------
-title: Hoevelaken
-alternative: 
------------
-title: De Veenhuis
-alternative: 
------------
-title: Holk
-alternative: 
------------
-title: Doornsteeg
-alternative: 
------------
-title: Slichtenhorst
-alternative: 
------------
-title: Driedorp
-alternative: 
------------
-title: Nekkeveld
-alternative: 
------------
-title: Kruishaar
-alternative: 
------------
-title: Prinsenkamp
-alternative: 
------------
 title: Reodar
 alternative: Reodar
 -----------
@@ -8418,24 +7095,6 @@ alternative: Platine Region
 -----------
 title: Inoran
 alternative: Inoran
------------
-title: Cattenbroek
-alternative: 
------------
-title: Heeswijk, Utrecht
-alternative: 
------------
-title: Mastwijk
-alternative: 
------------
-title: Blokland, Utrecht
-alternative: 
------------
-title: Ockhuizen
-alternative: 
------------
-title: Themaat
-alternative: 
 -----------
 title: Killucan and Rathwire
 alternative:  Cill Lucaine
@@ -9040,20 +7699,11 @@ alternative: Sebastian
 title: Mark Gottlieb (Neighbours)
 alternative: Marcel Amadieu
 -----------
-title: Stokkelaarsbrug
-alternative: 
------------
 title: Nevada State Route 88
 alternative: Woodfords Road
 -----------
 title: Marcin Nowak (musician)
 alternative: Novy
------------
-title: Mijnden
-alternative: 
------------
-title: Oud-Maarsseveen
-alternative: 
 -----------
 title: CocoCay
 alternative: Little Stirrup Cay
@@ -9780,48 +8430,6 @@ alternative: Naza Forza
 title: Tourettes (band)
 alternative: Tourettes Syndrome
 -----------
-title: Stegerveld
-alternative: 
------------
-title: Stegeren
-alternative: 
------------
-title: Junne
-alternative: 
------------
-title: Zeesse
-alternative: 
------------
-title: Besthmen
-alternative: 
------------
-title: Giethmen
-alternative: 
------------
-title: Varsen
-alternative: 
------------
-title: Lemele
-alternative: 
------------
-title: Dalmsholte
-alternative: 
------------
-title: Beerzerveld
-alternative: 
------------
-title: Beerze
-alternative: 
------------
-title: Witharen
-alternative: 
------------
-title: Vinkenbuurt
-alternative: 
------------
-title: Ommerschans
-alternative: 
------------
 title: Hautlieu School
 alternative: Hautlieu
 -----------
@@ -10440,54 +9048,6 @@ alternative: Wheeling and Belmont Bridge
 -----------
 title: Jolada rotti
 alternative: Bijapur billi jollad rotti / bhakri
------------
-title: Sint Jansteen
-alternative: 
------------
-title: Clinge
-alternative: 
------------
-title: Graauw
-alternative: 
------------
-title: Zandberg, Zeeland
-alternative: 
------------
-title: Paal, Netherlands
-alternative: 
------------
-title: Heikant, Zeeland
-alternative: 
------------
-title: Nieuw-Namen
-alternative: 
------------
-title: Kapellebrug
-alternative: 
------------
-title: Kloosterzande
-alternative: 
------------
-title: Walsoorden
-alternative: 
------------
-title: Lamswaarde
-alternative: 
------------
-title: Kuitaart
-alternative: 
------------
-title: Terhole
-alternative: 
------------
-title: Vogelwaarde
-alternative: 
------------
-title: Hengstdijk
-alternative: 
------------
-title: Ossenisse
-alternative: 
 -----------
 title: Mia Wallace
 alternative: Mrs. Wallace

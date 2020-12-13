@@ -1,0 +1,1 @@
+You can find the code of the project in the file alternate_names_infobox.ipynb and input and output data in the folder data. The big data (extracted and cleared) are not uploaded, because their size is bigger than 100 MB and it is not possible to upload the files so big on Github.
